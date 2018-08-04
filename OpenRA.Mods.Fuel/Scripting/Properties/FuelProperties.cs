@@ -8,9 +8,6 @@
  */
 #endregion
 
-using System;
-using OpenRA.Mods.Common.Activities;
-using OpenRA.Mods.Common.Traits;
 using OpenRA.Scripting;
 using OpenRA.Traits;
 using OpenRA.Mods.Fuel.Traits;

@@ -12,13 +12,11 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using OpenRA;
 using OpenRA.Graphics;
 using OpenRA.Traits;
 using OpenRA.Mods.Common;
 using OpenRA.Mods.Common.Graphics;
 using OpenRA.Mods.Common.Traits;
-using OpenRA.Mods.Fuel;
 
 namespace OpenRA.Mods.Fuel.Traits
 {

@@ -8,12 +8,8 @@
  */
 #endregion
 
-using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
 using OpenRA.Traits;
-using OpenRA.Mods.Fuel;
 
 namespace OpenRA.Mods.Fuel.Traits
 {
